@@ -507,3 +507,9 @@ class App extends Component {
 }
 
 export default App;
+
+
+----------------------------------------------------------------------------------------------------------------
+
+
+Biblioteca de rotas = npm install react-router-dom
